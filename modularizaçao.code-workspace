@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "html-css"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"wolf.disableHotModeWarning": true,
+		"sqltools.connections": [],
+		"liveServer.settings.multiRootWorkspaceName": "html-css"
+	}
+}
